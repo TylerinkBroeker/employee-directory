@@ -1,0 +1,12 @@
+main {
+    background: beige;
+}
+
+.searchTitle {
+    text-align: center;
+    padding: 20px;
+}
+
+.btn {
+    font-weight: bold;
+}
