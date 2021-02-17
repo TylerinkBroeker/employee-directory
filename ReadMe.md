@@ -6,7 +6,8 @@
 ## Tylerinkbroeker
 ## Description
 Employee directory built with React, using components, state management, and responsive events. Use this directory to search and sort employees by name to see full name, email, cell phone, and a small profile picture.
-
+![Directory Screenshot 1](public/Employee_Dir_1.PNG)
+![Directory Screenshot 2](public/Employee_Dir_2.PNG)
 ## Table of Contents
   - [User-Story!](#user-story)
 
