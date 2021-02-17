@@ -5,7 +5,7 @@
 # Employee Directory
 ## Tylerinkbroeker
 ## Description
-Use this directory to search employees by name to see full name, email, cell phone, and a small profile picture.
+Employee directory built with React, using components, state management, and responsive events. Use this directory to search employees by name to see full name, email, cell phone, and a small profile picture.
 ## Table of Contents
   - [Installation!](#installation)
 
@@ -20,9 +20,9 @@ Use this directory to search employees by name to see full name, email, cell pho
   - [Questions?](#author)
 
 ## Installation:
-npm install
+Start by cloning the repository, then run npm install.
 ## Usage:
-To run this application, use 
+npm start after setting up and running the install.
 ## License:
 None
 ## Contributing:
